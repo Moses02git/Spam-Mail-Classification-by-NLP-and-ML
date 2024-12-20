@@ -34,11 +34,6 @@ Launch the interface using **Streamlit**:
 streamlit run app.py
 ```
 
-### 4. Access the Interface
-After running the above command, the project will open in your default web browser. If not, copy and paste the URL provided in the terminal (e.g., `http://localhost:8501`) into your browser.
-
----
-
 ## Additional Notes
 - Ensure the `spam_classifier.pkl` and `vectorizer.pkl` files are present in the project directory, as they are required for the classification.
 - Modify the `config.json` file if you wish to customize parameters such as vectorization or model settings.
