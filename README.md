@@ -48,7 +48,7 @@ After running the above command, the project will open in your default web brows
 ## Contact
 For queries or contributions, contact:
 - **Name:** Moses Praisy
-- **Email:** your_email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** mosespraisy0001@gmail.com
+- **GitHub:** (https://github.com/Moses02git)
 
 ---
