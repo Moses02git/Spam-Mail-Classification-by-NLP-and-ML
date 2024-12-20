@@ -21,25 +21,20 @@ Ensure the following are installed:
 - **Python** (Version 3.7 or later)
 - Required Python libraries (listed in `requirements.txt`)
 
-### 2. Clone the Repository
-```bash
-git clone https://github.com/yourusername/P3-Spam-Mail-Classification-by-NLP-and-ML.git
-cd P3-Spam-Mail-Classification-by-NLP-and-ML
-```
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Project
+### 3. Run the Project
 Launch the interface using **Streamlit**:
 ```bash
 streamlit run app.py
 ```
 
-### 5. Access the Interface
+### 4. Access the Interface
 After running the above command, the project will open in your default web browser. If not, copy and paste the URL provided in the terminal (e.g., `http://localhost:8501`) into your browser.
 
 ---
